@@ -38,7 +38,6 @@ Volkswagen-Global-Strategy-Analysis/
 │
 ├── notebooks/            ← Python notebooks (cleaning + EDA + charts)
 ├── dashboard/            ← Power BI or HTML dashboard files
-├── presentation/         ← Final slide deck
 ├── assets/               ← Images, chart exports, logos
 └── README.md
 ```
